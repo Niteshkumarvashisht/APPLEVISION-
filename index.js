@@ -8,7 +8,7 @@ gsap.to(".videodiv",{
         end:"bottom 20%",
         scroller:'.main',
         scrub:1,
-        markers:true
+        
     },
     width:"90%",
     height: "75%"
@@ -21,7 +21,7 @@ gsap.to(".main",{
         end:"bottom -10%",
         scroller:'.main',
         scrub:1,
-        markers:true
+       
     },
     backgroundColor:"#000000f0",
    
@@ -33,7 +33,7 @@ gsap.to(nav,{
         end:"bottom 20%",
         scroller:'.main',
         scrub:1,
-        markers:true
+       
     },
     backgroundColor:"#ffffff",
     height:"8vh"
@@ -46,7 +46,7 @@ gsap.to(".videodiv1",{
         end:"bottom 20%",
         scroller:'.main',
         scrub:1,
-        markers:true
+        
     },
     width:"90%",
     height: "75%"
